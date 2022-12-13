@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning IT in LEET coding school in UM6P - Mohammed VI Polytechnic University
 
-*LEET is school Affiliated to School 42 in Paris.
+*LEET is school Affiliated to 42 school in Paris.
 
 📫 How to reach me -> achaqabbes@gmail.com
 
