@@ -1,13 +1,13 @@
 
-.👋 Hi, I’m @aachaq
+👋 Hi, I’m @aachaq
 
-.👀 I’m interested in computer sience.
+👀 I’m interested in computer sience.
 
-.🌱 I’m currently learning IT in LEET coding school in UM6P - Mohammed VI Polytechnic University
+🌱 I’m currently learning IT in LEET coding school in UM6P - Mohammed VI Polytechnic University
 
-.LEET is school Affiliated to School 42 in Paris.
+*LEET is school Affiliated to School 42 in Paris.
 
-.📫 How to reach me -> achaqabbes@gmail.com
+📫 How to reach me -> achaqabbes@gmail.com
 
 <!---
 aachaq/aachaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
