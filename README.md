@@ -10,4 +10,3 @@ You can click the Preview link to take a look at your changes.
 --->
 https://badge.mediaplus.ma/black/aachaq
 [![aachaq's 42 stats](https://badge.mediaplus.ma/black/aachaq)](https://github.com/oakoudad/badge42)
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/aachaq" alt="aachaq's 42 stats" /></a>
