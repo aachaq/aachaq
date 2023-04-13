@@ -3,7 +3,7 @@
 
 👀 I’m interested in computer sience.
 
-🌱 I’m currently learning IT in LEET coding school in UM6P - Mohammed VI Polytechnic University
+🌱 I’m currently learning IT engineering in LEET coding school in UM6P - Mohammed VI Polytechnic University
 
 *LEET is school Affiliated to 42 school in Paris.
 
